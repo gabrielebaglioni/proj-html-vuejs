@@ -8,9 +8,9 @@
       <li><a href="#"></a>Mission</li>
       <li><a href="#"></a>Causes</li>
       <li><a href="#"></a>Jurnal</li>
-       <li class=' py-2 px-7 mx-4  cursor-pointer bg-amber-500 '>
+       <button class=' py-2 px-7 mx-4  cursor-pointer bg-amber-500 '>
             login
-       </li>
+       </button>
     </ul>
   </nav>
 </template>

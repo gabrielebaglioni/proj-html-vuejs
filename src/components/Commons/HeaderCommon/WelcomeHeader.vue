@@ -1,6 +1,12 @@
 <template>
-  <div>
-
+  <div class="w-full flex justify-center items-center">
+    <div class="py-60 text-center "  >
+         <h1 class="text-5xl font-bold">MAKE A DIFFERENCE</h1>
+         <p class="pt-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ipsam unde</p>
+         <button class="bt-white py-2 px-2 mt-3">Our Mission</button>
+         <button class="mx-2 bt-orange py-2 px-2 mt-3">Donate Now</button>
+    </div>
+    
   </div>
 </template>
 
@@ -11,5 +17,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.bt-white{
+  border: 2px solid white;
+}
+.bt-orange{
+  border: 2px solid orange;
+}
 
 </style>

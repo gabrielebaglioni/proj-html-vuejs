@@ -24,6 +24,8 @@ export default {
 .background{
   color: white;
   background-image: url(../../assets/images/home-page-slider.jpg);
+  background-size: contain;
+  background-size: cover;
 }
 
    
