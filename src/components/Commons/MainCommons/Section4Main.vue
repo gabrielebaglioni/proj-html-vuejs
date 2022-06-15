@@ -8,7 +8,7 @@
          </div>
       </div>
       <div class="w-full flex px-60 ">
-        <div class="w-1/2 justify-start flex-col px-10 ">
+        <div class="w-1/2 justify-start flex-col pr-10 ">
           <img src="../../../assets/images/photo-1444213007800-cff19e1677ac-600x450.jpg" alt="">
           <div class="ml-4 py-6 ">
              <h5 class="text-orange-300">Understandig Comunitys Compiexities</h5>
@@ -47,6 +47,11 @@
          </div>
         </div>
       </div>
+     <div class="w-full flex px-60 ">
+        <div class="background flex-1 text-center py-2 text-white font-light">
+           <h6>VIEW ALL OUR ARTICLES</h6>
+        </div>
+     </div>
   </div>
 </template>
 
@@ -60,5 +65,8 @@ export default {
 .border{
    border: 1px solid lightgray;
 }
+.background{
+  background-color: #ED6966;
+ }
 
 </style>
