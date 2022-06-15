@@ -5,6 +5,7 @@
      <Section3MainVue/>
      <SeparatorMainVue/>
      <Section4MainVue/>
+     <Section5MainVue/>
   </main>
 </template>
 
@@ -14,6 +15,7 @@ import Section2MainVue from '../Commons/MainCommons/Section2Main.vue';
 import Section3MainVue from '../Commons/MainCommons/Section3Main.vue';
 import SeparatorMainVue from '../Commons/MainCommons/SeparatorMain.vue';
 import Section4MainVue from  '../Commons/MainCommons/Section4Main.vue';
+import Section5MainVue from '../Commons/MainCommons/Section5Main.vue';
 
 
 
@@ -21,7 +23,7 @@ import Section4MainVue from  '../Commons/MainCommons/Section4Main.vue';
 
 export default {
     name: "BaseMain",
-    components: { Section1MainVue, Section2MainVue, Section3MainVue, SeparatorMainVue, Section4MainVue,  }
+    components: { Section1MainVue, Section2MainVue, Section3MainVue, SeparatorMainVue, Section4MainVue, Section5MainVue }
 }
 </script>
 

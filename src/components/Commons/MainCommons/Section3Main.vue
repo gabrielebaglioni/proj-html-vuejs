@@ -3,7 +3,9 @@
          <div class="w-full flex justify-center items-center pt-20 text-center ">
                <div>
                   <h2 class="font-bold text-2xl mb-6" > RECENT CAUSES </h2>
-                  <hr class="w-96 border-yellow-600  mb-6">
+                   <div class="w-full flex justify-center">
+                      <hr class="w-96 border-yellow-600  mb-6">
+                   </div>
                   <h5> We run project in over 30 countries in 5 contines</h5>
                </div>
                

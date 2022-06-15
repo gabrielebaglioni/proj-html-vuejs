@@ -1,10 +1,12 @@
 <template>
   <div class="background">
-        <div class="w-full flex justify-center items-center pt-44  text-white  ">
+        <div class="w-full flex justify-center items-center pt-44 text-center text-white  ">
           <div>
-             <h2 class="font-bold text-2xl mb-6" > OUR VALUES </h2>
-             <hr class="w-38 border-yellow-600  mb-6">
-             <h5> Think Big.Act Bigger.</h5>
+             <h2 class="font-bold text-2xl mb-6"  > OUR VALUES </h2>
+              <div class="w-full flex justify-center">
+                <hr class="w-96 border-yellow-600  mb-6">
+            </div>
+             <h5 class="text-center"> Think Big.Act Bigger.</h5>
           </div>
          
         </div>

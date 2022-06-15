@@ -3,7 +3,9 @@
       <div class="w-full flex justify-center items-center py-20 text-center ">
          <div>
             <h2 class="font-bold text-2xl mb-6" > LATEST ARTICLES </h2>
-            <hr class="w-96 border-yellow-600  mb-6">
+             <div class="w-full flex justify-center">
+                <hr class="w-96 border-yellow-600  mb-6">
+            </div>
             <h5> Together We Make All The Difference</h5>
          </div>
       </div>
@@ -47,7 +49,7 @@
          </div>
         </div>
       </div>
-     <div class="w-full flex px-60 ">
+     <div class="w-full flex px-60 py-16 ">
         <div class="background flex-1 text-center py-2 text-white font-light">
            <h6>VIEW ALL OUR ARTICLES</h6>
         </div>
