@@ -15,11 +15,11 @@
      </div>
      <div class="w-1/3 background">
        <div class="flex flex-col justify-center items-center pt-20 text-white">
-          <span class="text-center font-extrabold">2032</span>
+          <span class="text-center font-extrabold text-xl">2032</span>
           <p class="mb-8">voluntaries worldwild</p>
-          <span class="text-center font-extrabold">132</span>
+          <span class="text-center font-extrabold text-xl">132</span>
           <p class="mb-8">Active project</p>
-          <span class="text-center font-extrabold">$ 1.5 M</span>
+          <span class="text-center font-extrabold text-xl">$ 1.5 M</span>
           <p>Donate</p>
        </div>
      </div>
