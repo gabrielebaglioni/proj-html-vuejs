@@ -10,7 +10,7 @@
       <!-- <li><a href="#"></a>Mission</li>
       <li><a href="#"></a>Causes</li>
       <li><a href="#"></a>Jurnal</li> -->
-       <button class=' py-2 px-7 mx-4  cursor-pointer bg-amber-500 '>
+       <button class=' py-2 px-7 mx-4  cursor-pointer bg-amber-500 hover:bg-amber-600'>
             login
        </button>
     </ul>
@@ -46,7 +46,7 @@ export default {
         ]
       }
     },
-    method :{
+    methods:{
       getActive(index){
         this.links.forEach((link) => link.active = false );
         this.links[index].active = !this.links[index].active;

@@ -26,14 +26,14 @@
               <p class="text-xs">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium nostrum ad</p>
            </div>
          </div>
-         <div class="flex py-4">
+         <div class="flex py-2">
            <img class="w-28" src="../../../assets/images/photo-1447430617419-95715602278e-177x142.jpg"  alt="">
-           <div class="flex-col pl-3 px-1 py-1">
+           <div class="flex-col pl-3 px-1 ">
               <h5 class="text-orange-300  font-light py-1 ">The human story of uniqueness</h5>
               <p class="text-xs">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium nostrum ad</p>
            </div>
          </div>
-         <div class="flex py-4">
+         <div class="flex pb-2">
            <img class="w-28" src="../../../assets/images/photo-1460230525622-630fe3294cd7-177x142.jpg"  alt="">
            <div class="flex-col pl-3 px-1">
               <h5 class="text-orange-300  font-light py-1">The human story of uniqueness</h5>
