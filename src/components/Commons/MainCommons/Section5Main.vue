@@ -1,6 +1,6 @@
 <template>
   <div class="background text-white">
-       <div class="w-full flex justify-center items-center pt-20 text-center ">
+       <div class="w-full flex justify-center items-center pt-12 text-center ">
          <div>
             <h2 class="font-bold text-2xl mb-6" > CHANGE A LIFE TODAY </h2>
             <div class="w-full flex justify-center">
@@ -28,6 +28,8 @@ export default {
  .background{
    background-image: url(../../../assets/images/home-footer.jpg);
    background-size: cover;
+   background-position: center ;
+   background-repeat: no-repeat;
    
    
  }
